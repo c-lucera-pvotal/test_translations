@@ -1,0 +1,28 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "i18n": {
+        "title": "App title",
+        "content": "Welcome back {user}!",
+        "clicked": {
+          "times-0": "You didn't pressed!",
+          "times-1": "You pressed once!",
+          "times-2": "You pressed {times} times!"
+        }
+      }
+    },
+    {
+      "code": "it",
+      "i18n": {
+        "title": "Titolo app",
+        "content": "Bentornato {user}!",
+        "clicked": {
+          "times-0": "Non hai premuto!",
+          "times-1": "Hai premuto una volta!",
+          "times-2": "Hai premuto {times} volte!"
+        }
+      }
+    }
+  ]
+}
