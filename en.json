@@ -1,6 +1,6 @@
 {
   "title": "App title",
-  "content" : "Welcome back {user}!"
+  "content" : "Welcome back {user}!",
   "clicked": {
     "times-0": "You didn't pressed!",
     "times-1": "You pressed once!",
